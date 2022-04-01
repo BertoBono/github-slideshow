@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your tetx
+te la rifaste fernando
 Use the left arrow to go back!
